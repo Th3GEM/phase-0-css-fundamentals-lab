@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+text-align: center;
+}
+nav {
+  background-color: grey;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+
+}
+figcaption {
+  text-align: center;
+}
+#featured-property  p {
+width: 800px;
+word-spacing: normal;
+}
+img {
+  display: block; /* Make the image a block-level element */
+  margin: 0 auto; /* Set left and right margins to auto for horizontal centering */
+}
+#featured-property p {
+width: 800px;
+text-align: center;
+margin: 0 auto;
+}
+
+#details div {
+ float: left; 
+ background-color: red;
+width: 25%;
+ text-align: center;
+}
